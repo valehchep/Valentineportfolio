@@ -6,6 +6,26 @@
 .Education{
     background-color: green;
 }
+img{
+    margin-left: 2rem;
+    height: 400px;
+    border-radius: 4rem;
+
+
+}
+
+.Valentine .big-navbar{
+    padding-left: 0rem;
+}
+
+
+.nav-link{
+    justify-content: center ;
+    text-align: center;
+    padding-left: 5rem;
+    text-decoration: none;
+    color: aliceblue;
+    }
 
 span{
     color: red;
@@ -20,10 +40,37 @@ span{
 }
 
 .ican{
-    font-size: 75px;
+    font-size: 35px;
     text-decoration: dotted;
 }
+section{
+    background-color:black;
+    background: url(./images/Screenshot\ from\ 2022-09-12\ 09-30-52.png);
 
-.contact.
+}
+section h1{
+    color: red;
+    text-align: center;
+}
+
+section p{
+    text-align: left;
+    font-size: 20px;
+    margin-left: 4rem;
+    margin-right: 4rem;
+    margin-top: 2rem;
+    color: black
+
+}
 
 
+.copyright{
+    font-size: 20px;
+    color: darkgreen;
+    text-align: center;
+}
+
+.copy div{
+    height: 5rem;
+    margin-top: 5rem;
+}
